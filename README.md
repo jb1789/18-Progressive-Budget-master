@@ -1,4 +1,4 @@
-# IB-HW18-18-Progressive-Budget
+18-Progressive-Budget
 
 Unit 18 PWA Homework: Online/Offline Budget Trackers
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
